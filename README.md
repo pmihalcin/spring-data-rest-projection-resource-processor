@@ -9,7 +9,7 @@ In order to reproduce the issue, do the following:
 
 Run boot application
 
-Follow http://localhost:8080/browser/index.html#http://localhost:8080/countryCriteria
+Follow http://localhost:8080/browser/index.html#http://localhost:8080/countryCriteria/1
 in HAL browser you can find `edit` rel in Links section
 
 Follow http://localhost:8080/browser/index.html#http://localhost:8080/countryCriteria/1?projection=withCountries
